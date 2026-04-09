@@ -1,0 +1,8 @@
+num=int(input("enter any Enter"))
+count=0
+for i in str(num):
+    num = num//10
+    count+=1
+    print(count)
+    n=str(input("Enter a string "))
+    print(len(set(n)))
