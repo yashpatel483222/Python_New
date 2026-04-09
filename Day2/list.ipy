@@ -1,0 +1,5 @@
+#creat empty list
+lst=["56"]
+lst1=list("")
+print(lst)
+print(lst1)
